@@ -88,7 +88,7 @@ Create a C program that functions as a simple calculator. The program should:
 
 Enter first number: 10
 Enter second number: 5
-Enter an operator (+, -, _, /): _
+Enter an operator (+, -, *, /): -
 Result: 10 - 5 = 5
 
 ```
