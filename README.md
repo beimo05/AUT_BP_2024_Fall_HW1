@@ -292,9 +292,9 @@ Write a C program that calculates the distance between two points in a 2D plane.
 -   Prompt the user to enter the coordinates of the second point (**x₂**, **y₂**).
 -   Calculate and display the distance between the two points using the distance formula:
 
-\[
-\text{Distance} = \sqrt{(x₂ - x₁)^2 + (y₂ - y₁)^2}
-\]
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\text{Distance}=\sqrt{(x_2-x_1)^2+(y_2-y_1)^2}" />
+</p>
 
 ### Example Input/Output
 
